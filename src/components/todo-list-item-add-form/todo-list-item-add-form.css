@@ -1,0 +1,11 @@
+.todo-list-item-add-form {
+    margin-top: 10px;
+}
+
+.todo-list-item-add-form button {
+    white-space: nowrap;
+}
+
+.todo-list-item-add-form input {
+    margin-right: 3px;
+}
